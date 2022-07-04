@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Toris (@ptoris) and I am a nuclear engineering student at PHELMA in Grenoble, France. 
+- 👋 Hi, I’m Paul Toris (@ptoris), a nuclear engineering student at PHELMA in Grenoble, France. 
 - 👀 I’m interested in the challenges of energy transition, with an emphasis on nuclear energy and numerical tools for nuclear engineering. 
 - 📫 Reach me at: paul.toris@grenoble-inp.org 
 
